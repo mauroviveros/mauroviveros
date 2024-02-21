@@ -82,8 +82,12 @@
 <!--![](https://astro.build/assets/press/astro-icon-light-gradient.svg)-->
 
 ## ⭐ Github Stats
+
+<!-- [![Mauro Daniel Viveros's Daily Streak](https://github-readme-streak-stats.herokuapp.com?user=mauroviveros&theme=dark)](https://git.io/streak-stats) -->
+[![Mauro Daniel Viveros's Weekly Streak](https://github-readme-streak-stats.herokuapp.com?user=mauroviveros&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
 ![Mauro Daniel Viveros's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroviveros&rank_icon=github&show_icons=true&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&layout=donut&theme=dark)
+![Mauro Daniel Viveros's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&layout=donut&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=mauroviveros&color=241199)
