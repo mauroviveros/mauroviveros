@@ -1,7 +1,7 @@
 # console.log("Hello World!") <img src="assets/Hi.gif" width="40px"/>   <img src="assets/Earth.gif" width="40px"/>
 <img src="assets/Developer.gif" align="right">
 
-- 🔭 I'm currently working on [my portfolio](https://github.com/mauroviveros/mauroviveros.github.io)
+- 🔭 I'm currently working on [my portfolio](https://github.com/mauroviveros/portfolio)
 - 🌱 I'm currently learning Astro, Golang, Flutter
 - 💼 I'm Web Developer & DevOps
 - 👯 I'm looking to collaborate on full stack web apps!
