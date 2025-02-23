@@ -1,5 +1,15 @@
-<h1 align="center">console.log("Hello World!") <img src="assets/Hi.gif" width="40px"/>   <img src="assets/Earth.gif" width="40px"/></h1>
-<img src="assets/Developer.gif" align="right">
+<h1 align="center">
+  console.log("Hello World!")
+  <img src="assets/Hi.gif" width="40px"/>
+  <img src="assets/Earth.gif" width="40px"/>
+</h1>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=mauroviveros&color=241199&label=views"/>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&&hide_title=true&card_width=290" align="right" width="500" height="224"/>
+
 
 - 🔭 I'm currently working on [fitness-trainer](https://github.com/mauroviveros/fitness-trainer)
 - 🌱 I'm currently learning Astro, Golang, Flutter
@@ -10,6 +20,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 🧩
 
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mauroviveros&theme=transparent&hide_border=true&mode=weekly&hide_longest_streak=true&fire=FB8C00)](https://git.io/streak-stats)
+  ![Mauro Daniel Viveros's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&theme=transparent&hide_border=true&hide=html,css,less,handlebars,scss)
+
+</div>
 
 <div align="center">
 
@@ -47,16 +64,3 @@
 ![DEV OPS](https://go-skill-icons.vercel.app/api/icons?i=jest,vscode)
 
 </details>
-
-<!--![](https://astro.build/assets/press/astro-icon-light-gradient.svg)-->
-
-## ⭐ Github Stats
-
-<!-- [![Mauro Daniel Viveros's Daily Streak](https://github-readme-streak-stats.herokuapp.com?user=mauroviveros&theme=dark)](https://git.io/streak-stats) -->
-[![Mauro Daniel Viveros's Weekly Streak](https://github-readme-streak-stats.herokuapp.com?user=mauroviveros&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-![Mauro Daniel Viveros's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroviveros&rank_icon=github&show_icons=true&theme=dark)
-
-![Mauro Daniel Viveros's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&layout=donut&theme=dark)
-
-![](https://komarev.com/ghpvc/?username=mauroviveros&color=241199)
