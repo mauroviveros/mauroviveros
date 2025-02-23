@@ -8,7 +8,8 @@
 - 🤝 I’m looking for help with Angular, Astro and Backend
 - 💬 Ask me about Websites, Basketball and Chess
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: [object Object]
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 🧩
+
 
 <div align="center">
 
