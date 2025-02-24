@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mauroviveros&color=241199&label=views"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&&hide_title=true&card_width=290" align="right" width="450" height="224"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&&hide_title=true&card_width=290" align="right" width="400" height="224"/>
 
 
 - 🔭 I'm currently working on [fitness-trainer](https://github.com/mauroviveros/fitness-trainer)
