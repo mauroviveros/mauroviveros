@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&hide_title=true&card_width=290&cache=true" align="right" width="400" height="224"/>
 
 
-- 🔭 I'm currently working on [fitness-trainer](https://github.com/mauroviveros/fitness-trainer)
+- 🔭 I'm currently working on [fitness_trainer](https://github.com/mauroviveros/fitness_trainer)
 - 🌱 I'm currently learning Astro, Golang, Flutter
 - 💼 I'm Web Developer & DevOps
 - 👯 I'm looking to collaborate on full stack web apps!
