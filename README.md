@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mauroviveros&color=241199&label=views"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&hide_title=true&card_width=290&cache=true" align="right" width="400" height="224"/>
+<img src="https://mauroviveros-github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&hide_title=true&card_width=290&cache=true" align="right" width="400" height="224"/>
 
 
 - 🔭 I'm currently working on [fitness_trainer](https://github.com/mauroviveros/fitness_trainer)
@@ -24,7 +24,7 @@
 <div align="center">
 
   [![GitHub Streak](https://mauroviveros-github-readme-streak-stats.vercel.app?user=mauroviveros&theme=transparent&hide_border=true&mode=weekly&hide_longest_streak=true&fire=FB8C00)](https://git.io/streak-stats)
-  [![Mauro Daniel Viveros's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&theme=transparent&hide_border=true&hide=html,css,less,handlebars,scss,nix,shell)](https://github-readme-stats.vercel.app)
+  [![Mauro Daniel Viveros's Most Used Languages](https://mauroviveros-github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&theme=transparent&hide_border=true&hide=html,css,less,handlebars,scss,nix,shell)](https://github-readme-stats.vercel.app)
 
 </div>
 
