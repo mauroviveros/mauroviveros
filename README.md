@@ -11,13 +11,11 @@
 <img src="https://mauroviveros-github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&hide_title=true&card_width=290&cache=true" align="right" width="400" height="224"/>
 
 
-- 🔭 I'm currently working on [fitness_trainer](https://github.com/mauroviveros/fitness_trainer)
-- 🌱 I'm currently learning Astro, Golang, Flutter
-- 💼 I'm Web Developer & DevOps
-- 👯 I'm looking to collaborate on full stack web apps!
-- 🤝 I’m looking for help with Angular, Astro and Backend
+- 🚀 I'm Currently building [Kodal](https://github.com/mauroviveros/kodal)
+- 🧠 I'm Frontend Engineer focused on scalable architectures & DX
+- 🌱 Exploring Golang & cross-platform ecosystems
+- 🤝 Open to collaborating on product-driven web applications
 - 💬 Ask me about Websites, Basketball and Chess
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! 🧩
 
 
@@ -28,10 +26,9 @@
 
 </div>
 
-<div align="center">
-
-  ![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,angular,astro,tailwindcss,mongodb,firebase,kubernetes,docker,vscode)
-
+<div align="center"> 
+  
+  ![Languages](https://go-skill-icons.vercel.app/api/icons?i=astro,react,ts,tailwind,vercel,cloudflare,supabase,vitest,nodejs,angular)
 </div>
 
 <details>
@@ -39,28 +36,19 @@
 <!-- https://go-skill-icons.vercel.app/api -->
 <!-- https://skillicons.dev/icons?i=js,html,css,wasm-->
 
-### Languages:
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,golang,bash,lua)
+### 🚀 Landing Pages & Static Sites:
+![🚀 Landing Pages & Static Sites](https://go-skill-icons.vercel.app/api/icons?i=astro,tailwind,vercel,cloudflare)
 
-### Frontend Frameworks:
-![Frontend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=angular,astro,react,flutter)
+### ⚡ SSR / Hybrid Applications:
+- #### _Astro_ based
+  ![⚡ SSR / Hybrid Applications](https://go-skill-icons.vercel.app/api/icons?i=astro,tailwind,supabase,vercel,cloudflare)
+- #### _Angular_ based
+  ![⚡ SSR / Hybrid Applications](https://go-skill-icons.vercel.app/api/icons?i=angular,ts,firebase,cloudflare)
 
-### Backend Frameworks:
-![Backend Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,express,graphql)
+### 🧩 Enterprise Frontend Applications:
+![🧩 Enterprise Frontend Applications](https://go-skill-icons.vercel.app/api/icons?i=angular,ts,jest,mongodb,cloudflare)
 
-### Databases:
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb)
-
-### Cloud Services
-![Cloud Services](https://go-skill-icons.vercel.app/api/icons?i=vercel,firebase,cloudflare,aws)
-
-### DEV OPS
-![DEV OPS](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,docker,argocd,helm,nginx)
-
-### Libraries
-![DEV OPS](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,sass,materialui,bootstrap)
-
-### Tools
-![DEV OPS](https://go-skill-icons.vercel.app/api/icons?i=jest,vscode)
+### 🐳 Cloud & Infrastructure:
+![🐳 Cloud & Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,nginx,cloudflare)
 
 </details>
