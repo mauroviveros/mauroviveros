@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mauroviveros&color=241199&label=views"/>
 </div>
 
-<img src="https://mauroviveros-github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&hide_title=true&card_width=290&cache=true" align="right" width="400" height="224"/>
+<img src="https://mauroviveros-github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&hide_title=true&card_width=290&icon_color=241199&ring_color=241199" align="right" width="400" height="224"/>
 
 
 - 🚀 I'm Currently building [Kodal](https://github.com/mauroviveros/kodal)
