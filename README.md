@@ -11,7 +11,7 @@
 <img src="https://mauroviveros-github-readme-stats.vercel.app/api?username=mauroviveros&show_icons=true&theme=transparent&hide_title=true&card_width=290&icon_color=241199&ring_color=241199" align="right" width="400" height="224"/>
 
 
-- 🚀 I'm Currently building [Kodal](https://github.com/mauroviveros/kodal)
+- 🚀 I'm Currently building [Eventdex](https://github.com/mauroviveros/eventdex)
 - 🧠 I'm Frontend Engineer focused on scalable architectures & DX
 - 🌱 Exploring Golang & cross-platform ecosystems
 - 🤝 Open to collaborating on product-driven web applications
