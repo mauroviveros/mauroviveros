@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://mauroviveros-github-readme-streak-stats.vercel.app?user=mauroviveros&theme=transparent&hide_border=true&mode=weekly&hide_longest_streak=true&fire=FB8C00)](https://git.io/streak-stats)
+  [![GitHub Streak](https://mauroviveros-github-readme-streak-stats.vercel.app?user=mauroviveros&theme=transparent&hide_border=true&mode=weekly&hide_longest_streak=true&fire=FB8C00&v=1)](https://git.io/streak-stats)
   [![Mauro Daniel Viveros's Most Used Languages](https://mauroviveros-github-readme-stats.vercel.app/api/top-langs/?username=mauroviveros&theme=transparent&hide_border=true&hide=html,css,less,handlebars,scss,nix,shell)](https://github-readme-stats.vercel.app)
 
 </div>
